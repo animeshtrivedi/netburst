@@ -19,15 +19,8 @@
 
 package com.github.animeshtrivedi;
 
-public class App
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Welcome to NetBurst benchmark framework!" );
-        NetBurstConfig config = new NetBurstConfig();
-        config.parse(args);
-        /* at this point we have the config - we start the master RPC service and wait for the clients
-         * to connect and ask for their config
-        */
-    }
+/**
+ * Created by atr on 9/26/16.
+ */
+public class NetBurst {
 }
