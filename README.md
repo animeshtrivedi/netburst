@@ -1,2 +1,2 @@
 # netburst
-A Java-based network benchmark framework
+A Java-based RDMA network performance benchmark
